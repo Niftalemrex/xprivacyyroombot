@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# Python virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+.DS_Store
