@@ -1,3 +1,1 @@
-﻿worker:
-python
-xprivacy_bot.py
+worker: python xprivacy_bot.py
