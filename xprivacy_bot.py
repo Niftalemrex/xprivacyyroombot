@@ -37,25 +37,25 @@ LEVELS = {
 
 default_truths = {
     1: [
-        "What's your favorite feature of {his} body?",
+        "What’s the most tantalizing feature of {his} body that drives you absolutely wild?",
         "What's the sexiest outfit you've seen {her} wear?",
-        "Where's the most unusual place you've kissed?",
+        "Where’s the most outrageous and unexpected place you’ve ever stolen a kiss?",
         "What's your go-to move to initiate sex?",
-        "Do you prefer making love or rough sex? Why?",
+        "Do you crave the intimacy of making love or the raw intensity of rough sex? What makes your heart pound?",
     ],
     2: [
-        "What's your dirtiest sexual fantasy involving {her}?",
-        "Have you ever faked an orgasm? Why?",
-        "What's the most unusual place you've masturbated?",
-        "Describe {her}'s body using only food metaphors.",
-        "What's something sexual you've done that you're secretly proud of?",
+        "What’s your most outrageous and taboo sexual fantasy involving {her} that you’ve never shared with anyone?",
+        "Have you ever faked an orgasm during a wild encounter? What was the craziest reason behind it?",
+        "What’s the most unexpected and thrilling location where you’ve indulged in self-pleasure?",
+        "If you had to describe {her}'s body using the most indulgent and decadent food metaphors, what would you say?",
+        "What’s the most daring and risqué sexual adventure you’ve embarked on that you secretly brag about?",
     ],
     3: [
-        "What's the kinkiest thing you've done that {his} doesn't know about?",
-        "Have you ever been attracted to {her}'s friend? Details.",
+        "What’s the dirtiest, most taboo fantasy you’ve actually acted on that {his} would lose their mind if they found out?",
+        "If {her} gave you a free pass with one of their friends, who would it be—and what depraved things would you do to them?",
         "What's your secret fetish you've never admitted?",
-        "Describe your perfect sexual encounter in graphic detail.",
-        "What's the most embarrassing thing that's happened during sex?",
+        "What’s the most shamefully twisted kink you’re too turned on by to ever confess out loud?",
+        "Describe the filthiest, most hedonistic sex you’ve ever had—every wet, messy, screaming detail.",
     ],
     4: [
         "Have you ever fantasized about a threesome? Who would you include?",
@@ -75,39 +75,39 @@ default_truths = {
 
 default_dares = {
     1: [
-        "Kiss your partner passionately for 20 seconds",
-        "Whisper something sexy in your partner's ear",
-        "Send a flirty selfie with a sexy caption",
-        "Describe what you want to do to your partner later",
-        "Play with your partner's hair sensually for 1 minute",
+        "Strip tease for your partner—but let them choose one item of clothing you must keep on until the end.",
+        "explore every inch of them with your hands, lips, or tongue.",
+        "let them whisper their dirtiest thought in your ear.",
+        "explore your partner’s body using only your lips and tongue.",
+        "Take turns being in charge—one of you gives commands while the other follows for 10 minutes.",
     ],
     2: [
-        "Send a voice message moaning your partner's name",
-        "Let your partner choose what you wear tonight",
-        "Write your partner's name on your body and send proof",
-        "Describe your last orgasm in detail",
-        "Give your partner a sensual massage for 5 minutes",
+        "Send a voice message moaning your partner’s name but make it as seductive and detailed as possible, describing what you want them to do to you.",
+        "Describe your last orgasm in vivid detail—but whisper it in their ear while teasing them with light touches.",
+        "Give your partner a sensual massage for 5 minutes—but use only your lips and tongue.",
+        "Send a sext describing what you want to do to them later—but make it as explicit as possible.",
+        "Take a shower together—but don’t touch each other until the very end.",
     ],
     3: [
-        "Perform a 30-second striptease for your partner",
-        "Tell your partner where you want to be touched right now",
+        "Perform a 30-second striptease for your partner while blindfolded",
+        "Record a sexy voice message describing your deepest desires and send it to your partner.",
         "Send a photo of your sexiest body part",
-        "Let your partner control your vibrator for 2 minutes",
+        "Let your partner take control of your pleasure for an entire evening.",
         "Describe your dirtiest fantasy in a voice message",
     ],
     4: [
         "Have phone sex with your partner right now",
         "Take a naughty photo in a risky place (bathroom, etc.)",
         "Tell your partner your most taboo desire",
-        "Masturbate while describing it to your partner",
-        "Let your partner choose your underwear for 24 hours",
+        "Masturbate while describing it to your partner or in front",
+        "Try a new location for intimacy.",
     ],
     5: [
-        "Have orgasm control play - partner decides when you cum",
-        "Do a sexual favor your partner chooses (within limits)",
-        "Try a new kink your partner suggests tonight",
+        "lick her feet or let him while fingering",
+        "give each other head ",
+        "moan on his ear while fingering",
         "Send a video of yourself doing something naughty",
-        "Roleplay your partner's fantasy via text/voice",
+        "Roleplay your partner's fantasy via text/voice or in person",
     ],
 }
 
@@ -120,8 +120,8 @@ extreme_truths = [
 ]
 
 extreme_dares = [
-    "Let your partner tie you up for 10 minutes (safely)",
-    "Do a sexual act while video calling your partner",
+    "Let your partner tie you up for 10 minutes and give you head",
+    "Do a sexual act or finger yourself in front of your partners",
     "Wear a remote-controlled toy in public for 1 hour",
     "Try anal play (giving or receiving) tonight",
     "Give your partner complete control over your orgasms for 24h",
