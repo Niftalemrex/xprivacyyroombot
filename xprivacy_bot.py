@@ -164,7 +164,7 @@ async def get_his_name(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         f"Perfect! You are now set as:\n💃 *{her}* & 🕺 *{his}*\n\n"
         "Use the following commands to play:\n"
-        "/begin - Start the game\n"
+        "/Start - Start the game\n"
         "/truth - Get a truth question\n"
         "/dare - Get a dare\n"
         "/addtruth - Add your own spicy truth\n"
